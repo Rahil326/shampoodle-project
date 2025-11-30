@@ -1,2 +1,2 @@
-# shampoodle-project
-MGS351 Salesforce project website for Shampoodle
+# shampoodle-project_Databse_Solutions
+Seven Solutions is here to support all your business database needs with reliable and efficient solutions.
